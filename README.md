@@ -163,7 +163,9 @@ Dataset (284K rows) excluded. Available at [Dacon Competition](https://dacon.io/
 **Seohyun Park**  
 University of Waterloo, Computer Science  
 Korea Presidential Science Scholarship Recipient
+
 *Supervised by Professor Sunwoo Ko*
+
 [![GitHub](https://img.shields.io/badge/GitHub-seohyunpark-181717?style=flat&logo=github)](https://github.com/spbraden2007-ux)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-seohyunpark-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/sp-park)
 
